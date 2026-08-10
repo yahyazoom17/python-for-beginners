@@ -2,6 +2,8 @@
 
 This guide briefly explains how to install Python, install Visual Studio Code, and verify that both are working correctly.
 
+## [Click here to watch the full tutorial on YouTube](https://youtube.com/playlist?list=PLVYouuCRZZgE&si=OYZdHKJc8mMkBi3O)
+
 ## 1. Install Python
 
 1. Download Python from the official Python website:
