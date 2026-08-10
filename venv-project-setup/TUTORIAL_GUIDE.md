@@ -2,7 +2,7 @@
 
 A quick guide to creating and managing Python virtual environments, installing packages, and using `requirements.txt`.
 
-[Click here to watch the full tutorial on YouTube](https://youtube.com/playlist?list=PLVYouuCRZZgE&si=OYZdHKJc8mMkBi3O)
+## [Click here to watch the full tutorial on YouTube](https://youtube.com/playlist?list=PLVYouuCRZZgE&si=OYZdHKJc8mMkBi3O)
 
 ## 1. Creating a virtual environment using Python
 
