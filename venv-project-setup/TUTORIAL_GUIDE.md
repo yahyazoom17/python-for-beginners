@@ -2,6 +2,8 @@
 
 A quick guide to creating and managing Python virtual environments, installing packages, and using `requirements.txt`.
 
+[CLick here to watch the full tutorial on YouTube](https://youtube.com/playlist?list=PLVYouuCRZZgE&si=OYZdHKJc8mMkBi3O)
+
 ## 1. Creating a virtual environment using Python
 
 Python includes the built-in `venv` module for creating isolated environments.
@@ -294,3 +296,7 @@ uv pip install -r requirements.txt
 ```
 
 For new projects, `uv` can also manage the project itself, dependencies, and lockfile rather than using `requirements.txt` alone. However, `uv pip` is a convenient choice when you specifically want a `pip`-compatible workflow.
+
+<p align="center">
+  Crafted with ❤️ by <a href="https://github.com/yahyazoom17">Yahya</a>
+</p>
