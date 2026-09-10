@@ -1,6 +1,6 @@
 # Python Variables — Notes & Understanding
 
-This README summarizes what I understood from the following W3Schools Python pages:
+This README summarizes the following topics in Python Variables:
 
 - [Python Variables](https://www.w3schools.com/python/python_variables.asp)
 - [Python Variable Names](https://www.w3schools.com/python/python_variables_names.asp)
@@ -539,11 +539,3 @@ The most important skills are:
 Once these concepts are clear, variables become one of the basic building blocks for writing Python programs.
 
 ---
-
-## Sources
-
-- [W3Schools — Python Variables](https://www.w3schools.com/python/python_variables.asp)
-- [W3Schools — Python Variable Names](https://www.w3schools.com/python/python_variables_names.asp)
-- [W3Schools — Python Variables: Assign Multiple Values](https://www.w3schools.com/python/python_variables_multiple.asp)
-- [W3Schools — Python Output Variables](https://www.w3schools.com/python/python_variables_output.asp)
-- [W3Schools — Python Global Variables](https://www.w3schools.com/python/python_variables_global.asp)
