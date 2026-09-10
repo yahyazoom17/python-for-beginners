@@ -9,3 +9,5 @@
 ### [2 - Creating Virtual Environment and Project Setup](https://github.com/yahyazoom17/python-for-beginners/blob/main/venv-project-setup/TUTORIAL_GUIDE.md)
 
 ### [3 - Python Syntax and Basic Rules](https://github.com/yahyazoom17/python-for-beginners/blob/main/python-syntax/TUTORIAL_GUIDE.md)
+
+### [4 - Python Variables and their Scopes](https://github.com/yahyazoom17/python-for-beginners/blob/main/python-variables/TUTORIAL_GUIDE.md)
